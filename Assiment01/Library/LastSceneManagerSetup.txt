@@ -1,5 +1,29 @@
 sceneSetups:
-- path: Assets/outSideWalls.unity
+- path: Assets/backDoor.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
+- path: Assets/BackRoom.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/FrontEnter.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/leftDoorway.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Lobby.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/rightRoom.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/outSideWalls.unity
+  isLoaded: 1
+  isActive: 0
   isSubScene: 0

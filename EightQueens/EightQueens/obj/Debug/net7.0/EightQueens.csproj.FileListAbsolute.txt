@@ -1,0 +1,15 @@
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/bin/Debug/net7.0/EightQueens
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/bin/Debug/net7.0/EightQueens.deps.json
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/bin/Debug/net7.0/EightQueens.runtimeconfig.json
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/bin/Debug/net7.0/EightQueens.dll
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/bin/Debug/net7.0/EightQueens.pdb
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/obj/Debug/net7.0/EightQueens.csproj.AssemblyReference.cache
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/obj/Debug/net7.0/EightQueens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/obj/Debug/net7.0/EightQueens.AssemblyInfoInputs.cache
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/obj/Debug/net7.0/EightQueens.AssemblyInfo.cs
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/obj/Debug/net7.0/EightQueens.csproj.CoreCompileInputs.cache
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/obj/Debug/net7.0/EightQueens.dll
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/obj/Debug/net7.0/refint/EightQueens.dll
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/obj/Debug/net7.0/EightQueens.pdb
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/obj/Debug/net7.0/EightQueens.genruntimeconfig.cache
+/Users/kurtis/Desktop/software Engineering one/cs423.Satterlee23/EightQueens/EightQueens/obj/Debug/net7.0/ref/EightQueens.dll
