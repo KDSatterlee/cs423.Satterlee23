@@ -11,11 +11,11 @@ sceneSetups:
   isLoaded: 1
   isActive: 0
   isSubScene: 0
-- path: Assets/leftDoorway.unity
+- path: Assets/Lobby.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
-- path: Assets/Lobby.unity
+- path: Assets/outSideWalls.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
@@ -23,7 +23,7 @@ sceneSetups:
   isLoaded: 1
   isActive: 0
   isSubScene: 0
-- path: Assets/outSideWalls.unity
+- path: Assets/Split.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
